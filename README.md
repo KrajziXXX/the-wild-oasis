@@ -1,1 +1,3 @@
 # SOON
+
+supabase,reactquery,reactrouter
