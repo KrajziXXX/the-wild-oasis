@@ -1,3 +1,3 @@
 # SOON
 
-supabase,reactquery,reactrouter
+supabase,reactquery,reactrouter, Toast Notifications
