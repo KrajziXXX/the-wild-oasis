@@ -2,4 +2,4 @@
 
 supabase,reactquery,reactrouter, Toast Notifications
 
-darkmode
+darkmode,authentication,dashboard
