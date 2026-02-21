@@ -1,5 +1,5 @@
 # SOON
 
-supabase,reactquery,reactrouter, Toast Notifications
+supabase and work with api,reactquery,reactrouter, Toast Notifications
 
 darkmode,authentication,dashboard,(faker-js,context),react-Portal
