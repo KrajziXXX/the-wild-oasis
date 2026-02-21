@@ -60,8 +60,8 @@ function Modal({ children, onClose }) {
         </Button>
         <div>{children}</div>
       </StyledModal>
-    </Overlay>
-    document.body
+    </Overlay>,
+    document.body,
   );
 }
 
